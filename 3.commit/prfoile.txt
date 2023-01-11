@@ -1,2 +1,2 @@
-email :
-gitID :
+email : odltkdtjro@naver.com
+gitID : odltkdtjro
