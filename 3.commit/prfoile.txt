@@ -1,2 +1,2 @@
-email :
-gitID :
+email : jenny@gmail.com
+gitID : jennynote
